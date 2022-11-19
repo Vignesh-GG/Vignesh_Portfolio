@@ -1,0 +1,147 @@
+*{
+    font-family: 'poppins';
+  }
+  .text1{
+    font-family: "poppins";
+  }
+    .footer{
+        position: relative;
+        background: linear-gradient(to left, #111111 0%, #ffffff 100%);
+    }   
+  .card_container1{
+    position:relative;
+    background: linear-gradient(to bottom, #000000 10%, #2f363d 90%);
+  }
+  .card_container2{
+    position:relative;
+    background: linear-gradient(to top, #000000 10%, #2f363d 90%);
+  }
+    .image{
+      width: 150px;
+      height: 50px;
+      border-radius: 10px;
+    }    
+    .col_1:hover{
+      transform: scale(1.1);
+      color: purpled;
+    }
+    .center_1{
+      text-align: center;
+    }
+    .photo{
+      width: 400px;
+      height: 400px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .card_0{
+      width: 600px;
+      height: 400px;
+      margin-left: 0;
+      margin-right: 0;
+    }
+    .crd_0{
+      width: 300px;
+      height: 600px;
+    }
+    .card_1{
+      width: 260px;
+      height: 150px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+      .card{
+      /* background: linear-gradient(to top, #3498db 20%, #151f29 80%); */
+      position: relative;
+      top: 10px;
+      width: 200px;
+      height: 225px;
+/*        margin-left: 28px;
+      margin-right: 12px;*/
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 30px;
+      border-color: white;
+
+    }
+    .clr_1{
+      background: linear-gradient(to bottom, #000000 10%, #2f363d 90%);
+      color: white;
+    }
+    .rub_1{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: left;
+
+    }
+    .clr_2{
+      color: white;
+      height: 585px;
+      display: flex;
+      justify-self: center;
+      align-items: center;
+    }
+    .card_2{
+      width: 220px;
+      height: 170px;
+      border-radius: 30px;
+    }
+    .card-body{
+      padding-left: 15px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .slide_1{
+      width: 100%;
+      height: 585px;
+      color: black;
+    }
+    .d-block{
+      width: 100%;
+      height: 600px;
+    }
+    .carousel-control-prev{
+      height: 585px;
+    } 
+    .carousel-control-next{
+      height: 585px;
+    }
+    .btn_1{
+      background: linear-gradient(to left, #42275a 0%, #000428 100%);
+      width: 150px;
+      height: 60px;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 20px;
+    }
+    .clr_3{
+      color: white;
+      height: 600px;
+/*        display: flex;
+      justify-self: center;
+      align-items: center;*/
+      padding-bottom: 10px;
+      padding-top: 15px;
+    }
+    .skill{
+      padding-top: 10px;
+      padding-bottom: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .text{
+      display: flex;
+      justify-content: center;
+      color: black;
+      padding-bottom: 2px;
+      font-family: 'Abril Fatface', cursive; ;
+    }
